@@ -1,0 +1,16 @@
+{
+    "categories": [
+        {
+            "id": 265,
+            "name": "Air Freshener / Perfumes",
+            "slug": "air-freshener-perfumes",
+            "description": null
+        },
+        {
+            "id": 284,
+            "name": "Car Care / Spray",
+            "slug": "car-care-spray",
+            "description": null
+        }
+    ]
+}
